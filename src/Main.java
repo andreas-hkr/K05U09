@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
         // Beräkna simhoppspoäng
-        //   - Ange antal domare (mist 3)
+        //   - Ange antal domare (minst 3)
         //
         //   - Loop
-        //     - Läs in Svårighetsgrad
+        //     - Läs in svårighetsgrad
         //     - Läs in poäng från alla domare
         //     - Dra bort högsta och lägsta poängen
         //     - Räkna ut genomsnitt av kvarvarande (obs 2 färre domare)
